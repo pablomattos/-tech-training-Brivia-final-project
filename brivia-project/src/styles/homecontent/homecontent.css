@@ -1,0 +1,126 @@
+.home-page {
+  width: 100%;
+  height: 100%;
+  max-height: 555px;
+  margin: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.home-two-images {
+  width: 100%;
+  max-width: 1350px;
+  height: 100%;
+  max-height: 255px;
+  margin: 0px;
+  display: flex;
+  flex-direction: row;
+}
+
+.first-image {
+  width: 100%;
+  max-width: 652px;
+  height: 100%;
+  max-height: 255px;
+  margin: 0px;
+}
+.first-image img {
+  width: 100%;
+  max-width: 652px;
+  height: 100%;
+  max-height: 255px;
+  margin: 0px;
+  display: inline-block;
+  object-fit: cover;
+}
+.second-image {
+  width: 100%;
+  max-width: 698px;
+  margin: 0px;
+}
+.second-image img {
+  width: 100%;
+  max-width: 698px;
+  height: 100%;
+  margin: 0px;
+  display: inline-block;
+  object-fit: cover;
+}
+.third-image {
+  width: 100%;
+  max-width: 1350px;
+  margin: 0px;
+}
+.third-image img {
+  width: 100%;
+  max-width: 1350px;
+  height: 100%;
+  max-height: 300px;
+  margin: 0px;
+  display: inline-block;
+  object-fit: cover;
+}
+@media (max-width: 720px) {
+  .home-page {
+    width: 100%;
+    height: 100%;
+    max-height: 240px;
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+  }
+  .home-two-images {
+    width: 100%;
+    max-width: 320px;
+    height: 100%;
+    max-height: 240px;
+    margin: 0px;
+    display: flex;
+    flex-direction: row;
+  }
+  .first-image {
+    width: 100%;
+    max-width: 160px;
+    height: 100%;
+    max-height: 120px;
+    margin: 0px;
+  }
+  .first-image img {
+    width: 100%;
+    max-width: 160px;
+    height: 100%;
+    max-height: 120px;
+    margin: 0px;
+    display: inline-block;
+  }
+  .second-image {
+    width: 100%;
+    max-width: 160px;
+    max-height: 120px;
+  }
+  .second-image img {
+    width: 100%;
+    max-width: 160px;
+    height: 100%;
+    max-height: 120px;
+    display: inline-block;
+  }
+  .third-image {
+    width: 100%;
+    max-width: 320px;
+    height: 100%;
+    max-height: 120px;
+    margin: 0px;
+  }
+  .third-image img {
+    width: 100%;
+    max-width: 320px;
+    height: 100%;
+    max-height: 120px;
+    margin: 0px;
+    display: inline-block;
+    object-fit: cover;
+  }
+}/*# sourceMappingURL=homecontent.css.map */

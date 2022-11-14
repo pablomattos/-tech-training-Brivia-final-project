@@ -1,0 +1,68 @@
+.logo-social-networks {
+  width: 179px;
+  height: 21px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.logo-face {
+  margin: 0px;
+  padding: 0px;
+  width: 21px;
+  height: 21px;
+  display: flex;
+}
+.logo-face a img {
+  width: 21px;
+  height: 21px;
+  display: inline-block;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.logo-insta {
+  margin: 0px;
+  padding: 0px;
+  width: 21px;
+  height: 21px;
+  display: flex;
+}
+.logo-insta a img {
+  width: 21px;
+  height: 21px;
+  display: inline-block;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.logo-linkedin {
+  margin: 0px;
+  padding: 0px;
+  width: 21px;
+  height: 21px;
+  display: flex;
+}
+.logo-linkedin a img {
+  width: 21px;
+  height: 21px;
+  display: inline-block;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.logo-youtube {
+  margin: 0px;
+  padding: 0px;
+  width: 21px;
+  height: 21px;
+  display: flex;
+}
+.logo-youtube a img {
+  width: 21px;
+  height: 21px;
+  display: inline-block;
+  -o-object-fit: cover;
+     object-fit: cover;
+}/*# sourceMappingURL=logosocialnetworks.css.map */
