@@ -6,4 +6,4 @@ Projeto realizado durante o curso da empresa Brivia:
       - O projeto final foi construído com React.js  
       - Para a criação das rotas das páginas, foi utilizado o React Router Dom.
       - Aplicou-se o conceito de "props" em componentes gerados.
-      - Empregou-se o método fetch, na consulta da api e o put para edição.
+      
